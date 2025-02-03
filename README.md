@@ -1,6 +1,6 @@
 # About This Repository
 
-This repository contains code associated with the HPEC 2023 paper: *Automated Indexing Of TEM Diffraction Patterns Using Machine Learning*. The **/data/** directory contains all test data classification and true labels for each model trained as well as the overall accuracy and F1-score tabular data. The **/figs_and_notebooks/** directory holds two figures from the paper and the Python notebooks used to create them. The **/models/** directory holds the Python scripts used to train and test the models.
+This repository contains code/results associated with the HPEC 2023 paper: *Automated Indexing Of TEM Diffraction Patterns Using Machine Learning*. The **/data/** directory contains all test data classification and true labels for each model trained as well as the overall accuracy and F1-score tabular data. The **/figs_and_notebooks/** directory holds two figures from the paper and the Python notebooks used to create them. The **/models/** directory holds the Python scripts used to train and test the models.
 
 # Questions
 
